@@ -1,2 +1,2 @@
 # ahLib_vba
-VBA Library
+VBA Library of AHerrel
